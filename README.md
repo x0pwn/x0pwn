@@ -1,1 +1,16 @@
+# x0pwn
+
+Backend-heavy dev with a focus on infrastructure, automation, and security.
+
+- I build internal tools and custom web apps  
+- Security contracting & auditing  
+- Lightweight web hosting provider  
+- Game design hobbyist working in [S&box](https://github.com/Facepunch/sbox)
+
+Currently working on:
+- 🎮 *DXRP* — private S&box roleplay framework  
+- 🎣 [Idle Waters](https://github.com/x0pwn/IdleWaters) — chill AFK fishing sim
+
+Most of my work is private or client-side. Open to collabs, just reach out.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x0pwn&layout=compact&theme=dark)
