@@ -5,7 +5,7 @@ Backend-heavy dev with a focus on infrastructure, automation, and security.
 - I build internal tools and custom web apps  
 - Security contracting & auditing  
 - Lightweight web hosting provider  
-- Game design hobbyist working in [S&box](https://github.com/Facepunch/sbox)
+- Game design hobbyist working in [S&box](https://sbox.game/)
 
 Currently working on:
 - 🎮 *DXRP* — private S&box roleplay framework  
