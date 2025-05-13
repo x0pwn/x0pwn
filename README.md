@@ -8,7 +8,8 @@ Backend-heavy dev with a focus on infrastructure, automation, and security.
 - Game design hobbyist working in [S&box](https://sbox.game/)
 
 Currently working on:
-- 🔒 SnapKey — secure password reset tool for internal environments  
+- 🔒 SnapKey — secure password reset tool for internal environments
+- AppliTrack - Job Search
 - 🎮 [DXRP](https://sbox.game/dxura/rp/) — private S&box roleplay framework  
 - 🎣 [Idle Waters](https://github.com/x0pwn/IdleWaters) — chill AFK fishing sim
 
